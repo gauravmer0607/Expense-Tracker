@@ -111,5 +111,10 @@ toggleTheme.addEventListener("click",()=>{
     document.documentElement.classList.toggle("dark");
 });
 
+function test(){
+console.log("AI review test");
+var x = 10 // bina semicolon aur const/let ke rough code
+}
+
 //run app
 init();
